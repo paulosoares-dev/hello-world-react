@@ -12,7 +12,7 @@ function App() {
           <h1>React JS</h1>
           <p>Biblioteca JavaScript para criar SPAs</p>
 
-          <a href='https://reactjs.org/' target="_blank">Site Oficial</a>
+          <a href='https://reactjs.org/' target="_blank" rel="noopener">Site Oficial</a>
         </section>
 
         <section className='box-requisitos'>
